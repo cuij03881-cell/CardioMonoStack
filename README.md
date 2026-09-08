@@ -203,10 +203,3 @@ If you use this repository, please cite the associated manuscript:
 **CardioMonoStack: A Postoperative Heart Failure Risk Prediction Model for Total Hip Arthroplasty Driven by Ensemble Learning**
 
 
-
----
-
-## Disclaimer
-
-This code is provided for research and reproducibility purposes only.  
-It is a candidate modeling framework and is **not** a deployment-ready clinical decision tool.
