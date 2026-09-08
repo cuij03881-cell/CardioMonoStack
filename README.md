@@ -1,7 +1,7 @@
 # CardioMonoStack
 
 <p align="center">
-  <img src="assets/Figure1_framework.png" alt="Figure 1. Overall CardioMonoStack framework" width="1000">
+  <img src="./assets/Figure1_framework.png" width="1000">
 </p>
 
 <p align="center"><em>Figure 1. Overall CardioMonoStack framework.</em></p>
