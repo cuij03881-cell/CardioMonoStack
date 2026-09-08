@@ -189,22 +189,6 @@ A gradient boosting regressor learns patient-specific residual refinement in log
 
 ---
 
-## Notes on reproducibility
-
-This repository contains the **model implementation framework**.  
-It does **not** include restricted patient-level datasets.
-
-The original study used the following databases:
-
-- MIMIC-III
-- MIMIC-IV
-- INSPIRE
-- eICU
-- MOVER
-
-Access to these datasets is subject to their respective data-use agreements and credentialing requirements.
-
----
 
 ## Data availability
 
@@ -218,7 +202,7 @@ If you use this repository, please cite the associated manuscript:
 
 **CardioMonoStack: A Postoperative Heart Failure Risk Prediction Model for Total Hip Arthroplasty Driven by Ensemble Learning**
 
-You may also cite the GitHub repository once publicly available.
+
 
 ---
 
